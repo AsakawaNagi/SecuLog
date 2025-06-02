@@ -1,0 +1,9 @@
+# 策略规则定义
+p, admin, C:\Users\18715\Desktop\secret\secret.txt, read
+p, guest, C:\Users\18715\Desktop\secret\secret.txt, deny
+
+g, Administrator, admin
+g, asakawaslegionr\18715, guest       # 为了触发警告把自己变成guest
+g, 18715, guest
+g, Guest, guest
+g, WDAGUtilityAccount, blocked
