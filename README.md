@@ -1,4 +1,6 @@
 # SecuLog——基于Windows系统日志实现安全审查
+原题目要求：
+作业3：根据所学，利用Windows系统自身的日志信息及其它系统信息，实现一个具有身份鉴别、基于角色的访问控制（RBAC）、安全审计等功能的OS安全状态感知软件。（30分）（对访问控制机制不熟悉的同学，可参考学习PyCasbin（PyCasbin是一种支持 ACL、RBAC、ABAC 多种模型的 Python 权限管理框架），可见以下网页介绍https://www.cnblogs.com/techone/p/10395368.html）
 
 ## 一、项目背景&目标：
 
