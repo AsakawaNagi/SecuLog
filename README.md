@@ -176,7 +176,7 @@ F --> G[可视化报告（未来可实现）]
 
 ## 六、项目地址&其他：
 
--  GitHub 仓库：还没传
+-  GitHub 仓库：[Seculog](https://github.com/AsakawaNagi/SecuLog)
 - 初学水平有限，欢迎各位大佬的指点！
 - 其他：
   - PyCasbin 官方文档：[https://casbin.org](https://casbin.org/)
